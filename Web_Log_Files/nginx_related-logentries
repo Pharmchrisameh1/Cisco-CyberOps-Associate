@@ -1,0 +1,6 @@
+Feb 10 21:29:12 labvm systemd[1]: Starting A high performance web server and a reverse proxy server...
+Feb 10 21:29:12 labvm systemd[1]: Started A high performance web server and a reverse proxy server.
+Feb 10 21:31:17 labvm systemd[1]: Stopping A high performance web server and a reverse proxy server...
+Feb 10 21:31:17 labvm systemd[1]: nginx.service: Deactivated successfully.
+Feb 10 21:31:17 labvm systemd[1]: Stopped A high performance web server and a reverse proxy server.
+
