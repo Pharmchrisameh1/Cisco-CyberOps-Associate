@@ -1,0 +1,4 @@
+-rw-r----- 1 www-data adm 338 Apr 22 05:49 access.log
+-rw-r----- 1 www-data adm 271 Apr 22 05:49 error.log
+-rw-r----- 1 www-data adm  78 Feb 10  2023 error.log.1
+
