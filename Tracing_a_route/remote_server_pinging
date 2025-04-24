@@ -1,0 +1,8 @@
+ping -c 4 www.cisco.com 
+
+PING e2867.dsca.akamaiedge.net (173.222.10.60) 56(84) bytes of data.
+64 bytes from a173-222-10-60.deploy.static.akamaitechnologies.com (173.222.10.60): icmp_seq=1 ttl=43 time=129 ms
+64 bytes from a173-222-10-60.deploy.static.akamaitechnologies.com (173.222.10.60): icmp_seq=2 ttl=43 time=131 ms
+64 bytes from a173-222-10-60.deploy.static.akamaitechnologies.com (173.222.10.60): icmp_seq=3 ttl=43 time=136 ms
+64 bytes from a173-222-10-60.deploy.static.akamaitechnologies.com (173.222.10.60): icmp_seq=4 ttl=43 time=138 ms
+
